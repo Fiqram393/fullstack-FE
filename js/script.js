@@ -1,4 +1,4 @@
-API_URL= `http://localhost:3000`
+const API_URL= `http://localhost:3000`
 
 window.addEventListener('scroll', function () {
     const header = document.querySelector('header');
